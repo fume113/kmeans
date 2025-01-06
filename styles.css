@@ -1,0 +1,5 @@
+/* Adjustments for scrollbar */
+.scrollable-table {
+  max-height: 300px; /* Adjust height as needed */
+  overflow-y: auto;
+}
